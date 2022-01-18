@@ -1,0 +1,14 @@
+*{
+	scroll-behavior: smooth;
+}
+
+.card img{
+	height: 250px;
+	width: 100%;
+
+}
+.contact{
+	background: rgba(0,123,255,.2);
+	border-radius: 4px;
+
+}
